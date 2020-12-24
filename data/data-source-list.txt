@@ -1,0 +1,2 @@
+salary-cap-year.csv manually retreived from:
+https://www.basketball-reference.com/contracts/salary-cap-history.html
