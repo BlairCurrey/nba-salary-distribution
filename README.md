@@ -1,3 +1,7 @@
 # nba-salary-distribution
 
-`soups.zip` should be unzipped to `raw/data`, otherwise it will re-request if the cell is run that tries to load it.
+I explore the distrubution of salaries on NBA teams over time and in relation to wins. `data-retrieval.ipynb` handles collecting and saving all the data used in `analysis.ipynb`.
+
+`data/raw/soups.zip` is provided as an alternative to rescraping and saving all the html files required for collecting the salary data.
+
+[See the analysis here.](analysis.ipynb`)
